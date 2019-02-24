@@ -32,29 +32,28 @@
     [
         "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1551044537017,
-            "changeTime": 1551044537017,
-            "contentHash": "691dedcb09b0733c095bc4597fdf623fb9e7fddc"
+            "modifiedTime": 1551045879434,
+            "changeTime": 1551045879434,
+            "contentHash": "63b71ce000e27a3eb7ec98195deba4631a8fe871",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1550557379024,
-            "changeTime": 1550557379024,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 0,
+            "modifiedTime": 1551045934203,
+            "changeTime": 1551045934203,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
         }
     ],
     [
@@ -78,13 +77,12 @@
             "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550557467412,
-            "changeTime": 1550557467412,
-            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "modifiedTime": 1551043575045,
+            "changeTime": 1551043575045,
+            "contentHash": "4a73e8ffb7ba37e044c1e837bf5fcc55e61ae4e3",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -259,40 +257,1015 @@
     [
         "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1551044537046,
             "changeTime": 1551044537046,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 338,
             "modifiedTime": 1551044661546,
             "changeTime": 1551044661546,
-            "contentHash": "d150b63b2b348a14b2afd45b0e0e384828994310"
+            "contentHash": "d150b63b2b348a14b2afd45b0e0e384828994310",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1551044537046,
             "changeTime": 1551044537046,
-            "contentHash": "7acf1df0ec0781930c8dacf0ffedfb1e5aa2864f"
+            "contentHash": "7acf1df0ec0781930c8dacf0ffedfb1e5aa2864f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551044786306,
+            "changeTime": 1551044786306,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1551044786302,
+            "changeTime": 1551044786302,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 201,
+            "modifiedTime": 1551045990874,
+            "changeTime": 1551045990874,
+            "contentHash": "b653a651d8e3ffd78bebd800ab00f8e46a0b360f"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1551044786270,
+            "changeTime": 1551044786270,
+            "contentHash": "9cba73ac62a1355406862911981efd7e62639c62",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "size": 129,
+            "modifiedTime": 1551044855270,
+            "changeTime": 1551044855270,
+            "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1551044786306,
+            "changeTime": 1551044786306,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1551044786296,
+            "changeTime": 1551044786296,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1551044786275,
+            "changeTime": 1551044786275,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1551044786281,
+            "changeTime": 1551044786281,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1551044786290,
+            "changeTime": 1551044786290,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "size": 267,
+            "modifiedTime": 1551045243741,
+            "changeTime": 1551045243741,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4957,
+            "modifiedTime": 1551045243751,
+            "changeTime": 1551045243751,
+            "contentHash": "b645af283a22f94dc1367bc45d684c83552a7428",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4961,
+            "modifiedTime": 1551045243761,
+            "changeTime": 1551045243761,
+            "contentHash": "245c6941f55743f69459a0f17a5bbd72e22dfd16",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5297,
+            "modifiedTime": 1551045243772,
+            "changeTime": 1551045243772,
+            "contentHash": "23d702c82d4aebdc46b0e36651f0168840ebbc74",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 19087,
+            "modifiedTime": 1551045243788,
+            "changeTime": 1551045243788,
+            "contentHash": "103528f22fd47f920db75db95482e2eda043e77e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551045243741,
+            "changeTime": 1551045243741,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551045243788,
+            "changeTime": 1551045243788,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551045542006,
+            "changeTime": 1551045542006,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551045460982,
+            "changeTime": 1551045460982,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1551045542002,
+            "changeTime": 1551045542002,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1551045548176,
+            "changeTime": 1551045548176,
+            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1551045541964,
+            "changeTime": 1551045541964,
+            "contentHash": "4f2b577ab9601eb150f6621671f3696ad60eccb1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "size": 111,
+            "modifiedTime": 1551045581852,
+            "changeTime": 1551045581852,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1551045542007,
+            "changeTime": 1551045542007,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1551045541997,
+            "changeTime": 1551045541997,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1551045573907,
+            "changeTime": 1551045573907,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1551045541983,
+            "changeTime": 1551045541983,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1551045541992,
+            "changeTime": 1551045541992,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1551045460978,
+            "changeTime": 1551045460978,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 120,
+            "modifiedTime": 1551045473300,
+            "changeTime": 1551045473300,
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1551045460941,
+            "changeTime": 1551045460941,
+            "contentHash": "8b5ab5fcd0668e218a721bf09d43db5e8d9aba66",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+            "isDirectory": false,
+            "size": 168,
+            "modifiedTime": 1551045511758,
+            "changeTime": 1551045511758,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1551045460983,
+            "changeTime": 1551045460983,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1551045460973,
+            "changeTime": 1551045460973,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1551045460953,
+            "changeTime": 1551045460953,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1551045460959,
+            "changeTime": 1551045460959,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1551045460968,
+            "changeTime": 1551045460968,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1551045879438,
+            "changeTime": 1551045879438,
+            "contentHash": "fe95029d9d0695d7ebbb9f1ee9a2a5448a6e8fbb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+            "isDirectory": false,
+            "size": 1259,
+            "modifiedTime": 1551045879712,
+            "changeTime": 1551045879712,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+            "isDirectory": false,
+            "size": 696,
+            "modifiedTime": 1551045879717,
+            "changeTime": 1551045879717,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x-black.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x-black.png",
+            "isDirectory": false,
+            "size": 3183,
+            "modifiedTime": 1551045879722,
+            "changeTime": 1551045879722,
+            "contentHash": "82f8e14d4cfa56a468c13eb87972a0f4fb3b5b6f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x-green.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x-green.png",
+            "isDirectory": false,
+            "size": 4203,
+            "modifiedTime": 1551045879728,
+            "changeTime": 1551045879728,
+            "contentHash": "e35a30ba577e6f3b6035e481fbaeed8211a2c2c5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x-grey.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x-grey.png",
+            "isDirectory": false,
+            "size": 3534,
+            "modifiedTime": 1551045879733,
+            "changeTime": 1551045879733,
+            "contentHash": "5b4e6dd21fe12be4b1aea0bd358f20cf412faf93",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x-orange.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x-orange.png",
+            "isDirectory": false,
+            "size": 4167,
+            "modifiedTime": 1551045879738,
+            "changeTime": 1551045879738,
+            "contentHash": "e191e3040eebfd1d0fcb9c4aa3e6e7020d2a1212",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x-red.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x-red.png",
+            "isDirectory": false,
+            "size": 4230,
+            "modifiedTime": 1551045879743,
+            "changeTime": 1551045879743,
+            "contentHash": "3506cc0d5cfeaf2ae28c7b36be412a22b05bd344",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x-violet.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x-violet.png",
+            "isDirectory": false,
+            "size": 4190,
+            "modifiedTime": 1551045879748,
+            "changeTime": 1551045879748,
+            "contentHash": "244e2100942f35380266297db9bcd233d1654dad",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x-yellow.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x-yellow.png",
+            "isDirectory": false,
+            "size": 4159,
+            "modifiedTime": 1551045879754,
+            "changeTime": 1551045879754,
+            "contentHash": "375d92f17462082c3ceefa8cf2f8c7330d87eaac",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+            "isDirectory": false,
+            "size": 2464,
+            "modifiedTime": 1551045879758,
+            "changeTime": 1551045879758,
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-black.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-black.png",
+            "isDirectory": false,
+            "size": 1523,
+            "modifiedTime": 1551045879763,
+            "changeTime": 1551045879763,
+            "contentHash": "6fa7832fba6b29c3cb1c8fe528a6b236e4cfea5e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-green.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-green.png",
+            "isDirectory": false,
+            "size": 1822,
+            "modifiedTime": 1551045879768,
+            "changeTime": 1551045879768,
+            "contentHash": "a15b3043adcc7ad64bd79d91e94108195dc4ce85",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-grey.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-grey.png",
+            "isDirectory": false,
+            "size": 1691,
+            "modifiedTime": 1551045879773,
+            "changeTime": 1551045879773,
+            "contentHash": "cb7a2647be9b7350346b1c3870db73279cb55c39",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-orange.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-orange.png",
+            "isDirectory": false,
+            "size": 1862,
+            "modifiedTime": 1551045879777,
+            "changeTime": 1551045879777,
+            "contentHash": "7800d8ca80a003596c64371aa4da822364a099b3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-red.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-red.png",
+            "isDirectory": false,
+            "size": 1870,
+            "modifiedTime": 1551045879781,
+            "changeTime": 1551045879781,
+            "contentHash": "7ca94f78f23c323c71058c216e48fd5358993494",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-violet.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-violet.png",
+            "isDirectory": false,
+            "size": 1859,
+            "modifiedTime": 1551045879785,
+            "changeTime": 1551045879785,
+            "contentHash": "679ef84ff25dc62e94bd55d9b2eb3190629db30c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-yellow.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-yellow.png",
+            "isDirectory": false,
+            "size": 1862,
+            "modifiedTime": 1551045879789,
+            "changeTime": 1551045879789,
+            "contentHash": "97b04c7a57413d5ad1165a1c3040ba79e3de16a4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+            "isDirectory": false,
+            "size": 1466,
+            "modifiedTime": 1551045879793,
+            "changeTime": 1551045879793,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1551045879797,
+            "changeTime": 1551045879797,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+            "isDirectory": false,
+            "size": 396928,
+            "modifiedTime": 1551045879803,
+            "changeTime": 1551045879803,
+            "contentHash": "4240045cf30725cb9980498fcc2ebf27a2f3c260",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+            "isDirectory": false,
+            "size": 755043,
+            "modifiedTime": 1551045879843,
+            "changeTime": 1551045879843,
+            "contentHash": "ca31fc870259d8faaa12c2f431906f368ea92791",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+            "isDirectory": false,
+            "size": 14198,
+            "modifiedTime": 1551045879859,
+            "changeTime": 1551045879859,
+            "contentHash": "57d2f781ab8b7b41d1dd5f0a51cd1930050ca9dc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+            "isDirectory": false,
+            "size": 139643,
+            "modifiedTime": 1551045879869,
+            "changeTime": 1551045879869,
+            "contentHash": "997eed0c9cf25113c35b4213569b2323ad7d861e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+            "isDirectory": false,
+            "size": 190004,
+            "modifiedTime": 1551045879887,
+            "changeTime": 1551045879887,
+            "contentHash": "d94996a1df21dc6283868fdf6c0f1e50358eafea",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551045879704,
+            "changeTime": 1551045879704,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551045879796,
+            "changeTime": 1551045879796,
+            "contentHash": "7a5783d0c746e39b252006f4691030681c77fce2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+        {
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551045879886,
+            "changeTime": 1551045879886,
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551045934266,
+            "changeTime": 1551045934266,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1551045934261,
+            "changeTime": 1551045934261,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1551045939082,
+            "changeTime": 1551045939082,
+            "contentHash": "f9b6c3794ae4ae87a33740d78e7022444aea9234"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1551045934216,
+            "changeTime": 1551045934216,
+            "contentHash": "fdac90e0dac3caab30457b5a957f4cac9c801490"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1551045963944,
+            "changeTime": 1551045963944,
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1551045934266,
+            "changeTime": 1551045934266,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1551045934252,
+            "changeTime": 1551045934252,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 387,
+            "modifiedTime": 1551045951410,
+            "changeTime": 1551045951410,
+            "contentHash": "d9c003312310adfc8ac80ff9005aba9cc7d51056"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1551045934231,
+            "changeTime": 1551045934231,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sturman\\sfdxTrailhead\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1551045934245,
+            "changeTime": 1551045934245,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
